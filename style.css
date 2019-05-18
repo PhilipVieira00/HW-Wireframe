@@ -42,7 +42,7 @@ body {
 .aside {
     text-align: center;
     position: relative;
-    width: 480px;
+    width: 450px;
     height: 4in;
     left: 240px;
     top: .25in;
@@ -53,7 +53,7 @@ body {
 .Section {
     text-align: center;
     position: relative;
-    width: 460px;
+    width: 495px;
     height: 4in;
     left: 25%;
     color: #777;
