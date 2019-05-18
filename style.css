@@ -8,31 +8,36 @@ body {
     text-align: center;
 }
 .header {
+    font-size: 16px;
     position: relative;
     color:   #777;
     background: #ebebeb;
-    left: 25%;
+    left: 15%;
+    right: 15%;
     height: .5in;
-    width: 960px;
+    width: 1248px;
     border-color: black;
     border-width: 5px;
 
 }
 .nav {
+    font-size: 16px;
     position: relative;
     color:   #777;
     background: #ebebeb;
-    left: 25%;
+    left: 15%;
+    right: 15%;
     height: .5in;
-    width: 960px;
+    width: 1248px;
     border-color: black;
     border-width: 5px;
 }
 .Article{
+    font-size: 16px;
     position: absolute;
-    width: 420px;
+    width: 545px;
     height: 3in;
-    left: 260px;
+    left: 190px;
     background:   #777777;
     color:#ebebeb;
     top: 2.5in;
@@ -40,53 +45,60 @@ body {
     z-index: 1;
 }
 .aside {
+    font-size: 16px;
     text-align: center;
     position: relative;
-    width: 450px;
+    width: 585px;
     height: 4in;
-    left: 240px;
+    left: 405.6px;
     top: .25in;
     float: right;
     color: #777;
     background: #ebebeb;
 }
 .Section {
+    font-size: 16px;
     text-align: center;
     position: relative;
-    width: 495px;
+    width: 620px;
     height: 4in;
-    left: 25%;
+    right: 15%;
+    left: 15%;
     color: #777;
     background: #ebebeb;
 }
 .h1{
+    font-size: 16px;
     position: absolute;
     text-align: center;
-    width: 400px;
+    width: 490px;
     height: .7in;
-    left: 270px;
+    left: 220px;
     top: 3.5in;
     color: #777;
     background: #ebebeb;
     z-index: 2;
 }
 .paragraph {
+    font-size: 16px;
     position: absolute;
     text-align: center;
-    width: 400px;
+    width: 490px;
     height: .7in;
-    left: 270px;
+    left: 220px;
     top: 4.5in;
     color: #777;
     background: #ebebeb;
     z-index: 2;
 }
 .footer {
+    font-size: 16px;
     position: relative;
     text-align: center;
     background: #ebebeb;
     color: #777;
-    left: 25%;
+    left: 15%;
+    right: 15%;
     height: .5in;
-    width: 960px;
+    width: 1248px;
 }
